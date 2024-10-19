@@ -1,0 +1,4 @@
+#1 split text into words and subword token
+#2 encode tokens into vector representation (byte-pair encoding) // embedding
+#3 implement a sampling and data-loading strategy
+
